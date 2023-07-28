@@ -2,6 +2,7 @@
 <div>
   🎮 Dê uma olhada nos meu jogo
   <a href="https://jonat-iha.itch.io/">:&nbsp<img align="center" alt="Itch.Io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
+  <br>
 
 - 🔭 Eu estou procurando emprego
 - 🌱 Eu estou aprendendo sobre mecânicas de jogo de plataforma
