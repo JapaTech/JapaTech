@@ -1,7 +1,13 @@
 ## Olá, sou o Jonathan Iha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="Hello"  width="32" />
 <div>
-  🎮 Dê uma olhada nos meu jogos 
+  🎮 Dê uma olhada nos meu jogo
   <a href="https://jonat-iha.itch.io/">:&nbsp<img align="center" alt="Itch.Io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
+
+- 🔭 Eu estou procurando emprego
+- 🌱 Eu estou aprendendo sobre mecânicas de jogo de plataforma
+- 👯 Quero colaborar no desenvolvimento de um jogo na Unity C#
+- 💬 Pergunte-me sobre Unity C#, fico feliz em ajudar
+- ⚡ Fun fact: Tenho azar em rolar dados nas jogadas de ataque no RPG
 </div>
 <br>
 
