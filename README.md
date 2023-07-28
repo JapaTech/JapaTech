@@ -9,10 +9,12 @@
 <div style="display: inline_block">
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-182f3b?style=for-the-badge&logo=unity"></img>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-182f3b?style=for-the-badge&logo=c-sharp&logoColor=forestgreen"></img>
+  <img align="center" alt="C" src="https://img.shields.io/badge/C-182f3b?style=for-the-badge&logo=c"></img> 
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/-HTML5-182f3b?style=for-the-badge&logo=html5"></img>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-182f3b?style=for-the-badge&logo=css3&logoColor=blue"></img>
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-182f3b?style=for-the-badge&logo=php"></img>
-  <img align="center" alt="PHP" src="https://img.shields.io/badge/MYSQL-182f3b?style=for-the-badge&logo=mysql"></img> 
+  <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-182f3b?style=for-the-badge&logo=javascript"></img>
+  <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MYSQL-182f3b?style=for-the-badge&logo=mysql"></img> 
 </div>
 
 <!--
