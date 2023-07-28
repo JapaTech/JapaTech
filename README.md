@@ -1,9 +1,9 @@
 ## Olá, sou o Jonathan Iha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="Hello"  width="32" />
 <div>
   🎮 Dê uma olhada nos meu jogos 
-  <a href="https://jonat-iha.itch.io/"><img align="center" alt="Itch.Io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
+  <a href="https://jonat-iha.itch.io/">:&nbsp<img align="center" alt="Itch.Io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
 </div>
-<br><br>
+<br>
 
 ## 📨 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathaniha/)
