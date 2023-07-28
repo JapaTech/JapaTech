@@ -1,7 +1,7 @@
 ## Olá, sou o Jonathan Iha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="Hello"  width="32" />
 <div>
-  🎮 Dê uma olhada nos meus jogos
-  <a href="https://jonat-iha.itch.io/">:&nbsp<img align="center" alt="Itch.Io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
+  🎮 Dê uma olhada nos meus jogos:
+  <a href="https://jonat-iha.itch.io/">&nbsp<img align="center" alt="Itch.Io" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"> </a>
   <br><br>
   
 - 🔭 Eu estou procurando emprego
