@@ -8,7 +8,7 @@
 - 🌱 Eu estou aprendendo sobre mecânicas de jogo de plataforma
 - 👯 Quero colaborar no desenvolvimento de um jogo na Unity C#
 - 💬 Pergunte-me sobre Unity C#, fico feliz em ajudar
-- ⚡ Fun fact: Tenho azar em rolar dados nas jogadas de ataque no RPG
+- ⚡ Fun fact: Tenho azar ao rolar dados nas jogadas de ataque no RPG
 </div>
 <br>
 
