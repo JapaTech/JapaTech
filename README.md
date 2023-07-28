@@ -1,7 +1,7 @@
 ### Olá, sou o Jonathan Iha <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" alt="Hello"  width="32" />
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://jonat-iha.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathaniha/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mail_to:JonathanXIha@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:JonathanXIha@outlook.com)
 
 ![Jonathan Iha's GitHub stats](https://github-readme-stats.vercel.app/api?username=JapaTech&show_icons=true&theme=dracula)
 
